@@ -43,3 +43,5 @@ Thumbs.db
 /src/assets/fonts
 /db/*
 
+package-lock.json
+
